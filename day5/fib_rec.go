@@ -15,5 +15,6 @@ func main() {
 	x := 10
 	for i := 0; i < x; i++ {
 		fmt.Println(fibi(i))
+		fmt.Println("Done")
 	}
 }
